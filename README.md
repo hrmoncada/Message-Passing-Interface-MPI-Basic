@@ -7,10 +7,14 @@ and does not need to be thread-safe. A process is a copy of the program executed
 - [Code](#Code)
   * [C](#C)
   * [C++](#C)
-  *[Fortran](#Fortran)
+  * [Fortran](#Fortran)
 <!-- 
     + [Sub-sub-heading](#sub-sub-heading-1)
 -->
+- [Rules](#Rules)
+
+<!-- Comments -->
+
 ## Rules
 Here are the rules for (or lack thereof):
    1. Push changes directly to head of https://github.com/hrmoncada/Message-Passing-Interface-MPI-Basic
